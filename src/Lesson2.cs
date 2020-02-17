@@ -33,34 +33,34 @@ namespace src
         }
 
         // Write a C# program to convert from celsius degrees to Kelvin AND Fahrenheit
-        public List<String> q5(int x)
+        public List<int> q5(int x)
         {
             throw new NotImplementedException();
         }
 
         // Write a C# program where all numbers are returned from a range from x to y
         // Hint: This will require a for loop within range
-        public List<String> q6(int x, int y)
+        public List<int> q6(int x, int y)
         {
             throw new NotImplementedException();
         }
 
         // Write a C# program where all odd numbers are returned from a range from x to y
         // Hint: This will require a for loop within range
-        public List<String> q7(int x, int y)
+        public List<int> q7(int x, int y)
         {
             throw new NotImplementedException();
         }
 
         // Write a C# program where all even numbers are returned from a range from x to y
         // Hint: This will require a for loop within range
-        public List<String> q8()
+        public List<int> q8()
         {
             throw new NotImplementedException();
         }
 
         // Write a C# program where all prime numbers are returned from a range from x to y
-        public List<String> q9() // Bonus - This will push you but answer will be given by me 
+        public List<int> q9() // Bonus - This will push you but answer will be given by me 
         {
             throw new NotImplementedException();
         }
