@@ -54,13 +54,13 @@ namespace src
 
         // Write a C# program where all even numbers are returned from a range from x to y
         // Hint: This will require a for loop within range
-        public List<int> q8()
+        public List<int> q8(int x, int y)
         {
             throw new NotImplementedException();
         }
 
         // Write a C# program where all prime numbers are returned from a range from x to y
-        public List<int> q9() // Bonus - This will push you but answer will be given by me 
+        public List<int> q9(int x, int y) // Bonus - This will push you but answer will be given by me 
         {
             throw new NotImplementedException();
         }
