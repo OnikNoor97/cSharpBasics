@@ -36,7 +36,14 @@ namespace test
         [Fact]
         public void q5Test()
         {
-            Assert.Equal(13, l2.q1(5, 6, 2));
+            List<int> expected = new List<int>();
+            expected.Add(303);
+            expected.Add(86);
+
+            List<int> actual = l2.q5(30);
+            bool checker = expected.SequenceEqual(actual);
+
+            Assert.True(checker, "Seems like the list is not equal, check if they are in order");
         }
 
         [Fact]
